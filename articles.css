@@ -1,0 +1,29 @@
+*{
+    background-color: darkgoldenrod;
+    color:black;
+    font-family: monospace,'Courier New', Courier;
+}
+
+.article-container{
+  display:flex;
+  width : 300px;
+  height:auto;
+  flex-direction: column;
+  
+  
+
+}
+.heading{
+    display:flex;
+    width : 300px;
+    height:auto;
+   
+    
+}
+.article{
+    display:flex;
+    width : 300px;
+    height:auto;
+   
+    
+}
